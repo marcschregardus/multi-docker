@@ -27,3 +27,6 @@
 /client/yarn-error.log*
 
 /.idea
+.idea
+
+.DS_Store
